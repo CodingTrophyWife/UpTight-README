@@ -1,4 +1,4 @@
-# Demo README Generator
+# demo
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 - [Description](#description)
 - [Installation](#installation)
@@ -9,25 +9,25 @@
 - [Questions](#questions)
 
 ## Description 
-This is a command line application that helps produce a professional README
+readme generator
 
 ## Installation 
-to install run npm i
+npm i
 
 ## Usage 
-to run type node index.js
+index.js
 
 ## License 
 The MIT License
 
 ## Shout Outs 
-yeah me
+yeah me 
 
 ## Test 
 undefined
 
 ## Questions 
-you can reach me at my GitHub or email
+you can reach me on github or email
 
 https://github.com/CodingTrophyWife
 
