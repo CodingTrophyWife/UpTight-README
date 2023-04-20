@@ -101,7 +101,7 @@ const questions = [
 
 inquirer.prompt(questions)
 .then ((answers) => {
-    generateREADME('README.md', answers); 
+    generateREADME('./markup/README.md', answers); 
 });
 
 function generateREADME(filename, answers) {
