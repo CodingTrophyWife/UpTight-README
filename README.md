@@ -5,6 +5,9 @@
 you can see a demo by clicking the link
 https://drive.google.com/file/d/1c4AbyvpJ8JDz3yeE1eNulP4aKvObTdVj/view?usp=sharing
 
+![Screenshot 2023-04-19 231234](https://user-images.githubusercontent.com/126922695/233276621-0a94241b-9420-4c0e-bfd8-9561f9ce1cc8.png)
+![Screenshot 2023-04-19 231543](https://user-images.githubusercontent.com/126922695/233276631-9aeabb78-e8a9-4e6a-a74c-2f198db7d1f2.png)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 - [Description](#description)
 - [Installation](#installation)
