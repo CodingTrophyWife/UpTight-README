@@ -122,7 +122,7 @@ function generateREADME(filename, answers) {
     readme += answers.Usage + "\n\n";
     readme += "## License \n";
     readme += answers.License + "\n\n";
-    readme += "## Shout Outs \n";
+    readme += "## ShoutOuts \n";
     readme += answers.ShoutOuts + "\n\n";
     readme += "## Test \n";
     readme += answers.test + "\n\n";
