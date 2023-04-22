@@ -29,7 +29,7 @@ to run type node index.js and then answer the questions
 ## License 
 The MIT License
 
-## Shout Outs 
+## Shoutouts 
 Hubby always!
 
 ## Test 
